@@ -1,0 +1,3 @@
+We used Gemini LLM to solve LaTeX problems.
+
+We used JatBrains AI (ChatGPT-based profile) for help with parallelization debugging (see appendix of the report).
