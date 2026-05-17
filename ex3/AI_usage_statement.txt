@@ -1,0 +1,3 @@
+We used Claude LLM for some debugging and for formatting some plots (particularly for the latent traversal).
+
+We used Gemini LLM to understand the array shape manipulation in numpy better.
